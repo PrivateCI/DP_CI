@@ -1,5 +1,6 @@
 # DP_CI
-Confidence Intervals for Private Query Processing
+Here are the experiments for the paper Confidence Intervals for Private Query Processing
+
 Input data are stored in bank_marketing.csv adult.csv and HepPh.txt.
 For experiments on median CI:
   Synthetic.ipynb describes results on synthetic datasets
