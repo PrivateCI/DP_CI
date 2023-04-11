@@ -5,9 +5,9 @@ Here are the experiments for the paper: Confidence Intervals for Private Query P
 
 ## Experiments on median CI:
   
-*  Synthetic.ipynb describes results on synthetic datasets
+* Synthetic.ipynb describes results on synthetic datasets
   
-*  medianCI.ipynb describes the results on real datasets
+* medianCI.ipynb describes the results on real datasets
   
 Ladder.ipynb describes experiments on graph counting queries, the ladder functions are calculated according to https://dl.acm.org/doi/pdf/10.1145/2723372.2737785
 
