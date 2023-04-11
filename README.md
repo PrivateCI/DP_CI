@@ -1,7 +1,7 @@
 # DP_CI
-Here are the experiments for the paper: Confidence Intervals for Private Query Processing
+Here are the experiments for the paper: Confidence Intervals for Private Query Processing. The experiments are not complicated so I simplily present them in jupyter notebooks.
 
-Input data are stored in bank_marketing.csv adult.csv and HepPh.txt.
+*Input data are stored in bank_marketing.csv adult.csv and HepPh.txt.
 
 For experiments on median CI:
   
